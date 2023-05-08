@@ -1,3 +1,3 @@
 # jeonhyelim.github.io
 
-오픈소스 SW활용 중간대체과제
+오픈소스 SW 활용 MID-TERM-Project
