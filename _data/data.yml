@@ -55,12 +55,13 @@ education:
 
 publications:
   title: Publications
-  intro: "Below is a list of my publications:"
+  # intro: "Below is a list of my publications:"
   papers:
-    - title: "RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크(Federated Learning Framework for Personalized Arrhythmia Diagnosis Model Using RNN-based Models)"
+    - title: "RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크
+    (Federated Learning Framework for Personalized Arrhythmia Diagnosis Model Using RNN-based Models)"
       # link: "https://example.com/deep-learning"
-      authors: "Jeonhyelim, Parkjaeyeon"
-      conference: "KSC, 2022"
+      authors: "Hyelim Jeon, Jaeyeon Park"
+      conference: "KSC, 2024"
 
 
 
