@@ -8,9 +8,9 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 전혜림(Jeonhyelim)
+    name: Jeonhyelim(전혜림)
     tagline: Developer
-    avatar: ore.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: ore.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jjjhyelim82@gmail.com
@@ -51,6 +51,13 @@ education:
         details: |
           모바일시스템공학에서 운영체제, 개발, 모바일 네트워크 및 통신에 대한 전반에 대해 배웠습니다. 
 
+
+publications:
+      title: Publications
+      list:
+        - name: RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크(Federated Learning Framework for Personalized Arrhythmia Diagnosis Model Using RNN-based Models) - 전혜림, 박재연 KSC2024
+          start: 2024
+          organization: KSC2024
 
 experiences:
     title: Experiences
@@ -98,12 +105,6 @@ experiences:
           - 2024 단국대학교 캡스톤페스티벌에서 Poster 발표
 
 
-publications:
-      title: Publications
-      list:
-        - name: RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크(Federated Learning Framework for Personalized Arrhythmia Diagnosis Model Using RNN-based Models) - 전혜림, 박재연 KSC2024
-          start: 2024
-          organization: KSC2024
 
 
 projects:
