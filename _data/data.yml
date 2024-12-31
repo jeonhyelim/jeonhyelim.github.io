@@ -52,12 +52,17 @@ education:
           모바일시스템공학에서 운영체제, 개발, 모바일 네트워크 및 통신에 대한 전반에 대해 배웠습니다. 
 
 
+
 publications:
-      title: Publications
-      list:
-        - name: RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크(Federated Learning Framework for Personalized Arrhythmia Diagnosis Model Using RNN-based Models) - 전혜림, 박재연 KSC2024
-          start: 2024
-          organization: KSC2024
+  title: Publications
+  intro: "Below is a list of my publications:"
+  papers:
+    - title: "RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크(Federated Learning Framework for Personalized Arrhythmia Diagnosis Model Using RNN-based Models)"
+      # link: "https://example.com/deep-learning"
+      authors: "Jeonhyelim, Parkjaeyeon"
+      conference: "KSC, 2022"
+
+
 
 experiences:
     title: Experiences
