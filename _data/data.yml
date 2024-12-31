@@ -57,7 +57,7 @@ publications:
   title: Publications
   # intro: "Below is a list of my publications:"
   papers:
-    - title: "RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크
+    - title: "RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크 |
     (Federated Learning Framework for Personalized Arrhythmia Diagnosis Model Using RNN-based Models)"
       # link: "https://example.com/deep-learning"
       authors: "Hyelim Jeon, Jaeyeon Park"
@@ -69,19 +69,19 @@ experiences:
     title: Experiences
     info:
       - role: 단국대학교 모바일시스템공학과 입학장학금 수혜
-        time: 2020
+        time: 2020.3
         company: 단국대학교
         # details: |
         #   - 2020년에 모바일시스템공학과 입학 장학금 수혜
 
       - role: 서울런 x 아람코 코딩스쿨 멘토
-        time: 2022.09 ~ 2022.12.21
+        time: 2022.09 ~ 2022.12
         company: 수료식 최우수상 수상
         # details: |
         #   - 수료식 최우수상을 수상
 
       - role: Tmax AI Bigdata Academy(TABA) 4기
-        time: 2023.09.01 ~ 2023.12.18
+        time: 2023.09 ~ 2023.12
         company: TmaxTibero / CCCR
         # details: |
         #   - TmaxTibero와 단국대학교 주관 AI와 빅데이터 아카데미 프로그램 참여
