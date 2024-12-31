@@ -1,0 +1,122 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: 전혜림(Jeonhyelim)
+    tagline: Backend Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: jjjhyelim82@gmail.com
+    phone: +82 010-2257-0593
+    timezone: Asia/Seoul Timezone
+    citizenship:
+    # website: velog.io/@
+    # linkedin: 
+    stack-overflow-id: 22925578 
+    stack-overflow-name: Tetrapod 3 Dev # if it is blank, show id
+    github: jeonhyelim
+    # pdf: http://www.africau.edu/images/default/sample.pdf
+
+    interests:
+      title: Skills
+      info:
+        - item: Java, Python, C, C++
+
+        - item: Spring Boot, Docker
+
+        - item: MySQL
+
+        - item: Javascript, HTML5, CSS
+
+        - item: Flutter, Android Studio
+
+career-profile:
+    title: Profile
+    summary: |
+      안녕하세요. 저는 개발자 전혜림입니다. 
+
+education:
+    title: Education
+    info:
+      - degree: Department of Mobile System Engineering
+        university: University of Dankook
+        time: 2020.03 - present
+        details: |
+          모바일시스템공학에서 운영체제, 개발, 모바일 네트워크 및 통신에 대한 전반에 대해 배웠습니다. 
+
+
+experiences:
+    title: Experiences
+    info:
+      - role: 단국대학교 모바일시스템공학과 입학장학금
+        time: 2020
+        company: 단국대학교
+        details: |
+          - 2020년에 모바일시스템공학과 입학 장학금 수혜
+
+      - role: 서울런 x 아람코 코딩스쿨 멘토
+        time: 2022.09 ~ 2022.12.21
+        company: 서울런
+        details: |
+          - 멘토로 활동하며 수료식 최우수상을 수상
+
+      - role: Tmax AI Bigdata Academy 4기
+        time: 2023.09.01 ~ 2023.12.18
+        company: TmaxTibero / CCCR
+        details: |
+          - TmaxTibero와 단국대학교 주관 AI와 빅데이터 아카데미 프로그램 참여
+
+      - role: 교환학생
+        time: 2024.01 ~ 2024.06
+        company: EPITECH, Paris, France
+        details: |
+          - 프랑스 파리 EPITECH에서 교환학생 프로그램 참여
+
+      - role: 한국정보과학회 학술대회 발표
+        time: 2024.10
+        company: 한국정보과학회
+        details: |
+          - 2024 한국소프트웨어종합학술대회에서 Poster 발표 진행
+
+      - role: 학부 연구생
+        time: 2024 ~ 현재
+        company: 단국대학교
+        details: |
+          - 단국대학교 모바일시스템공학과 학부 연구생으로 연구 활동 중
+
+      - role: 캡스톤 페스티벌 Poster 발표
+        time: 2024.11
+        company: 단국대학교
+        details: |
+          - 2024 단국대학교 캡스톤페스티벌에서 Poster 발표
+
+
+publications:
+      title: Publications
+      list:
+        - name: RNN 기반 모델을 사용한 부정맥 진단 개인화 모델을 위한 연합 학습 프레임워크(Federated Learning Framework for Personalized Arrhythmia Diagnosis Model Using RNN-based Models) - 전혜림, 박재연 KSC2024
+          start: 2024
+          organization: KSC2024
+
+
+projects:
+    title: Projects
+    assignments:
+      - title: 아두이노-ECG 심전도분석 어플리케이션 Front-End 개발
+        start: 2022
+        tagline: "."
+
+      - title: 단국대학교 기숙사 웹사이트 Back-End 개발
+        start: 2023
+        tagline: "."
+
+      - title: TABA 4기 이미지 AI 분석 프로젝트 Full-stack 개발
+        start: 2023
+        tagline: "."
