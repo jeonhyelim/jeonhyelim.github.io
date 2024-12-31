@@ -62,35 +62,35 @@ publications:
 experiences:
     title: Experiences
     info:
-      - role: 단국대학교 모바일시스템공학과 입학장학금
+      - role: 단국대학교 모바일시스템공학과 입학장학금 수혜
         time: 2020
         company: 단국대학교
-        details: |
-          - 2020년에 모바일시스템공학과 입학 장학금 수혜
+        # details: |
+        #   - 2020년에 모바일시스템공학과 입학 장학금 수혜
 
       - role: 서울런 x 아람코 코딩스쿨 멘토
         time: 2022.09 ~ 2022.12.21
-        company: 서울런
+        company: 서울런 X 아람코
         details: |
-          - 멘토로 활동하며 수료식 최우수상을 수상
+          - 수료식 최우수상을 수상
 
-      - role: Tmax AI Bigdata Academy 4기
+      - role: Tmax AI Bigdata Academy(TABA) 4기
         time: 2023.09.01 ~ 2023.12.18
         company: TmaxTibero / CCCR
-        details: |
-          - TmaxTibero와 단국대학교 주관 AI와 빅데이터 아카데미 프로그램 참여
+        # details: |
+        #   - TmaxTibero와 단국대학교 주관 AI와 빅데이터 아카데미 프로그램 참여
 
-      - role: 교환학생
+      - role: EPITECH, Paris, France exchange student
         time: 2024.01 ~ 2024.06
-        company: EPITECH, Paris, France
-        details: |
-          - 프랑스 파리 EPITECH에서 교환학생 프로그램 참여
+        company: exchange student
+        # details: |
+        #   - 프랑스 파리 EPITECH에서 교환학생 프로그램 참여
 
-      - role: 한국정보과학회 학술대회 발표
-        time: 2024.10
+      - role: 2024 한국소프트웨어종합학술대회 - Poster 발표
+        time: 2024.12
         company: 한국정보과학회
-        details: |
-          - 2024 한국소프트웨어종합학술대회에서 Poster 발표 진행
+        # details: |
+        #   - 2024 한국소프트웨어종합학술대회에서 Poster 발표 진행
 
       - role: 학부 연구생
         time: 2024 ~ 현재
@@ -98,11 +98,11 @@ experiences:
         details: |
           - 단국대학교 모바일시스템공학과 학부 연구생으로 연구 활동 중
 
-      - role: 캡스톤 페스티벌 Poster 발표
+      - role: 2024 캡스톤 페스티벌 - Poster 발표
         time: 2024.11
         company: 단국대학교
-        details: |
-          - 2024 단국대학교 캡스톤페스티벌에서 Poster 발표
+        # details: |
+        #   - 2024 단국대학교 캡스톤페스티벌에서 Poster 발표
 
 
 
