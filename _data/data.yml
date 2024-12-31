@@ -118,12 +118,12 @@ projects:
     assignments:
       - title: 아두이노-ECG 심전도분석 어플리케이션 Front-End 개발
         start: 2022
-        tagline: "."
+        tagline: "2022"
 
       - title: 단국대학교 기숙사 웹사이트 Back-End 개발
         start: 2023
-        tagline: "."
+        tagline: "2023"
 
       - title: TABA 4기 이미지 AI 분석 프로젝트 Full-stack 개발
         start: 2023
-        tagline: "."
+        tagline: "2023"
