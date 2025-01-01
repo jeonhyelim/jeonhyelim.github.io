@@ -10,19 +10,15 @@ sidebar:
     # Profile information
     name: Jeonhyelim(전혜림)
     tagline: Developer
-    avatar: ore.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jjjhyelim82@gmail.com
     phone: +82 010-2257-0593
     timezone: Asia/Seoul Timezone
     citizenship:
-    # website: velog.io/@
-    # linkedin: 
-    # stack-overflow-id: 22925578 
-    # stack-overflow-name: Tetrapod 3 Dev # if it is blank, show id
     github: jeonhyelim
-    # pdf: http://www.africau.edu/images/default/sample.pdf
+
 
     interests:
       title: Skills
