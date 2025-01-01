@@ -70,11 +70,11 @@ publications:
 experiences:
     title: Experiences
     info:
-      - role: 단국대학교 모바일시스템공학과 입학장학금 수혜
-        time: 2020.3
-        company: 단국대학교
-        # details: |
-        #   - 2020년에 모바일시스템공학과 입학 장학금 수혜
+      # - role: 단국대학교 모바일시스템공학과 입학장학금 수혜
+      #   time: 2020.3
+      #   company: 단국대학교
+      #   # details: |
+      #   #   - 2020년에 모바일시스템공학과 입학 장학금 수혜
 
       - role: 서울런 x 아람코 코딩스쿨 멘토
         time: 2022.09 ~ 2022.12
